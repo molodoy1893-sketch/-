@@ -1,0 +1,6 @@
+{
+  "name": "CYBER_FIT // Набор & Рельеф",
+  "description": "Киберпанковский интерактивный трекер тренировок с ИИ-коучем Gemini, умной аналитикой, аудиоэффектами и PWA",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
